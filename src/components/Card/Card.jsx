@@ -1,7 +1,7 @@
 import React from "react";
 import "./Card.scss";
 import Dine from "../../assets/images/Dine-Out.png";
-import Night from "../../assets/images/Night-Life.png";
+import Night from "../../assets/images/nightlife.jpg";
 import Online from "../../assets/images/Online-Food.png";
 
 const Card = () => {
