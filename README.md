@@ -48,8 +48,8 @@ In this **DevOps project**, I demonstrate how to **deploy a ZOMATO Clone App** u
 
 ---
 
-## Connect with me on LinkedIn:  
-[![LinkedIn](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=nexus&logoColor=white)](www.linkedin.com/in/nahidaanjum/)
+## 🟠 Connect with me on LinkedIn:  
+[LinkedIn][www.linkedin.com/in/nahidaanjum/]
 
 ---
 
