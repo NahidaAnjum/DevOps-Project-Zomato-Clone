@@ -49,7 +49,7 @@ In this **DevOps project**, I demonstrate how to **deploy a ZOMATO Clone App** u
 ---
 
 ## Connect with me on LinkedIn:  
-[![LinkedIn](www.linkedin.com/in/nahidaanjum/)
+[![LinkedIn](www.linkedin.com/in/nahidaanjum/)]
 
 ---
 
